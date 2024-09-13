@@ -30,4 +30,5 @@ Cleaning and formatting the dataset.
 In the survey, we need to find the average salary by job title, how satisfied employees are with their work-life balance, and how happy they are with their salary.
 
 ### Visualization
-  
+
+[Click Here To View The Visualization](https://github.com/Indumathi12/Power-BI-projects/blob/main/power%20BI%20final%20project.pdf)
