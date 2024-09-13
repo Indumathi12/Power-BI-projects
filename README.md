@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project we are focuses on Data Professions Mindset.
+This project focuses on the mindset of data professionals.
 
 
 ### Dataset
